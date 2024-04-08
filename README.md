@@ -1,1 +1,1 @@
-# ida-python-for-begyndere
+# Python for begyndere
